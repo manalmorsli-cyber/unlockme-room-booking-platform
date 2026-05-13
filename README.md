@@ -108,6 +108,3 @@ Open `index.html` in browser
 * Mobile version
 * Notifications system
 * AI-based recommendations
-
-
-* Your Name
