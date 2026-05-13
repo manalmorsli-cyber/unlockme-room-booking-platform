@@ -14,7 +14,7 @@ Finding and booking suitable event spaces can be time-consuming and inefficient 
 
 UnlockMe provides a centralized platform where:
 
-* Clients can search and book rooms بسهولة
+* Clients can search and book rooms easily
 * Owners can publish and manage their spaces
 * Admins can monitor and control the system
 
@@ -64,7 +64,7 @@ The application follows a fullstack architecture:
 * `routes/` → API routes
 * `controllers/` → business logic
 * `models/` → database schemas
-* `middlewares/` → auth & roles
+* `middlewares/` → auth and roles
 * `services/` → external services
 
 ## Installation
